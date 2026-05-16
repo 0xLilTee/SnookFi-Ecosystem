@@ -6,7 +6,7 @@ The protocol combines on-chain infrastructure with real-time gameplay systems to
 
 ---
 
-# 📦 Core Architecture
+# Core Architecture
 
 The SnookFi ecosystem is composed of multiple integrated systems designed to power competitive gameplay, tournaments, and digital asset ownership.
 
@@ -23,7 +23,7 @@ A real-time competitive 1v1 matchmaking system designed for transparent and skil
 
 ---
 
-## 🏆 Tournament Systems
+## Tournament Systems
 
 Structured tournament infrastructure supporting multiple competitive formats and scalable progression systems.
 
@@ -35,7 +35,7 @@ Structured tournament infrastructure supporting multiple competitive formats and
 
 ---
 
-## 🎮 Player Asset Economy
+## Player Asset Economy
 
 A digital asset layer enabling ownership, trading, and utility of in-game player assets across the SnookFi ecosystem.
 
@@ -48,7 +48,7 @@ A digital asset layer enabling ownership, trading, and utility of in-game player
 
 ---
 
-# ⚔️ MATCH SYSTEM (`Match.sol`)
+# MATCH SYSTEM (`Match.sol`)
 
 ## Overview
 
@@ -89,7 +89,7 @@ Players enter matchmaking queues based on competitive parameters and are automat
 
 ---
 
-# 🏆 TOURNAMENT SYSTEMS
+# TOURNAMENT SYSTEMS
 
 ## Crown Tournament (`CrownTournament.sol`)
 
@@ -127,19 +127,19 @@ The marketplace is designed to support a sustainable player-driven economy integ
 
 ## Marketplace Features
 
-### 🛒 Asset Trading
+### Asset Trading
 
 Players can trade supported digital assets within the ecosystem through decentralized marketplace infrastructure.
 
-### 🔁 Asset Rentals
+###  Asset Rentals
 
 Supported player assets can be temporarily rented for gameplay and tournament participation.
 
-### 🎨 Cosmetic Customization
+### Cosmetic Customization
 
 Players can personalize gameplay identity and visual representation using collectible cosmetic assets.
 
-### 🏆 Competitive Utility
+### Competitive Utility
 
 Certain player assets may provide ecosystem utility tied to progression, competitive participation, and digital identity.
 
