@@ -10,7 +10,7 @@ The protocol combines on-chain infrastructure with real-time gameplay systems to
 
 The SnookFi ecosystem is composed of multiple integrated systems designed to power competitive gameplay, tournaments, and digital asset ownership.
 
-## ⚔️ Match System
+## Match System
 
 A real-time competitive 1v1 matchmaking system designed for transparent and skill-based gameplay.
 
@@ -115,7 +115,7 @@ An advanced tournament structure supporting larger competitive participation and
 
 ---
 
-# 🎮 NFT MARKETPLACE (`SnookFiMarketplace.sol`)
+# NFT MARKETPLACE (`SnookFiMarketplace.sol`)
 
 ## Overview
 
